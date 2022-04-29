@@ -6,6 +6,22 @@
 
 * A major component of this class is 
 
+## Introduction to the Course
+
+## Introduction to the Course and ...
+
+| Weeks | Unit |
+| :--: | :-- |
+| 1 | Introductions to the Course |
+| 2 - 4 | Separation |
+| 5 - 6 | Separation2 |
+
+## Week 1
+
+| Date | Time (PDT) | Activity | Topic | Reading |
+| :--  | :--  | :------  | :--- | :--- |
+| 2/5(F) | 11:40am-12:30pm <br> 1:00-1:50pm | Session 1 <br> Session 2 | **No meeting for week 1** | | 
+
 ## How to use this
 ## Install
 ```
