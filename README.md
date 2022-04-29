@@ -1,4 +1,10 @@
-# chemsep
+# Schedule & Course Organization
+
+## Getting Started
+
+**This class** will be offered as an in-person course for the 2022 Summer quarter. 
+
+* A major component of this class is 
 
 ## How to use this
 ## Install
